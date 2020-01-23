@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, 2013
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2010
+* B.S. in Computer Science, Carnegie Mellon University, 2005
+* B.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2005
 
 Work experience
 ======
