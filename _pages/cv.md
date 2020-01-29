@@ -18,25 +18,22 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - Present: Adjunct Professor, Department of Electrical and Computer Engineering
+  * Carnegie Mellon University, Pittsburgh, PA, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - Present: Carnegie Mellon-KMITL Program Director
+  * CMKL University, Bangkok, Thailand
+
+* 2013 - Present: Lecturer, Department of Computer Engineering, Faculty of Engineering
+  * King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand
+
+* 2012 - 2013: Member of Technical Staff - Cloud Infrastructure Management
+  * VMware, Inc. Palo Alto, CA, USA
+
+* 2005 - 2011: Research Assistant
+  * Carnegie Mellon University
+  * Supervisor: Professor Hyong S. Kim
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,4 +54,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
