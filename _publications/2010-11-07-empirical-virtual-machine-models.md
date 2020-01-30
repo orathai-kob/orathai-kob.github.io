@@ -9,6 +9,5 @@ paperurl: 'https://www.usenix.org/conference/lisa10/empirical-virtual-machine-mo
 citation: 'A. Turner, A. Sangpetch and H.S. Kim. 2010. <i>Empirical virtual machine models for performance guarantees.</i> In Proceedings of the 24th International Conference on Large Installation System Administration (LISA&apos;10). USENIX Association, USA, 1-15.'
 ---
 
-[Download paper here](https://dl.acm.org/doi/abs/10.5555/1924976.1924996)
+[ACM DL](https://dl.acm.org/doi/abs/10.5555/1924976.1924996)
 
-Recommended citation: A. Turner, A. Sangpetch and H.S. Kim. 2010. <i>Empirical virtual machine models for performance guarantees.</i> In Proceedings of the 24th international conference on Large installation system administration (LISA&apos;10). USENIX Association, USA, 1-15.
