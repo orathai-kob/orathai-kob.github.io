@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, 2013
-* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2010
-* B.S. in Computer Science, Carnegie Mellon University, 2005
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2005
 * B.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2005
 
 Work experience
@@ -21,13 +20,13 @@ Work experience
 * 2019 - Present: Adjunct Professor, Department of Electrical and Computer Engineering
   * Carnegie Mellon University, Pittsburgh, PA, USA
 
-* 2017 - Present: Carnegie Mellon-KMITL Program Director
+* 2017 - Present: Vice President, CMKL University
   * CMKL University, Bangkok, Thailand
 
 * 2013 - Present: Lecturer, Department of Computer Engineering, Faculty of Engineering
   * King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand
 
-* 2012 - 2013: Member of Technical Staff - Cloud Infrastructure Management
+* 2012 - 2013: Member of Technical Staff - Storage Virtualization
   * VMware, Inc. Palo Alto, CA, USA
 
 * 2005 - 2011: Research Assistant
@@ -54,3 +53,4 @@ Teaching
   
 Service and leadership
 ======
+* Vice President (Research and Strategy), CMKL University

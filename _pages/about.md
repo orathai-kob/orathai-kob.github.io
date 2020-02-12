@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the program director for Carnegie Mellon - KMITL Program at CMKL University. My research interests are cloud computing, distributed systems, data visualization and emerging applications of big data platforms and connected infrastructures.
-
-The focus of my work is on developing data platform and their supporting technologies that can collect, visualize, and make sense of data from heterogenous systems. I am interested in how we can organize and automatically integrate data from various systems ranging from enterprise databases, applications to IoT sensors in order to understand and optimize behavior of the systems. This approach can be applied to a wide range of applications from smart cities, healths, logistics, retails, food & beverage to future of services.
-
-I have been working with various industries including service providers, logistics, finance, food & beverages and public sectors. My research goal is advancing the usage and organization of information that can support criticial decisions thru a unified platform that support data analytics and visualization.
+Dr. Orathai Sangpetch is currently serving as Vice President of Research and Strategy at CMKL University. She previously joined KMITL in 2013 after receiving B.S, M.S. and Ph.D. in ECE from Carnegie Mellon University. As one of founding members of CMKL University, Dr. Sangpetch works closely in collaboration with public and private organizations in Thailand to support innovations and research strategy for CMKM program. Her goal is to realize the research capabilities and drive innovations that will impact the transformation of Thailand and its surrounding region. Her research interests include virtualization, cloud computing, and cybersecurity.
 
 Current Research Projects
 ======
